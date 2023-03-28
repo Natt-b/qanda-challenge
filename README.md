@@ -6,6 +6,7 @@ This is the 6th class challenge in order to create a create a timed, multiple-ch
 
 - Created individual folders for HTML, Javascript and CSS to organise code.
 - Created three Javascript files: Logic, Questions and Scores.
+- Created a list of questions for the question bank.
 
 ## Starter code included:
 - Two HTML's to separate the index and highscores code.
